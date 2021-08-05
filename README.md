@@ -1,3 +1,1 @@
-# Assessment-10
-
-Springboard
+# Express Shopping List exercise for Springboard
